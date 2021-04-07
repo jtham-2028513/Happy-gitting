@@ -10,6 +10,8 @@ Here is a cute dolphin:
 
 ![A cute dolphin](cute-dolphin.jpeg)
 
+![Dolphin jumping](dolphinpic.jpg)
+
 I love dolphins but I haven't figure out a way to have one at home
 yet...  But we'll get there!
 
